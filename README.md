@@ -18,7 +18,10 @@ Code to control your ESP32 with your phone using bluetooth. Please make sure tha
 9a) you can open a serial monitor in your Arduino IDE and set the baud rate to 19200
 9b) you can connect LEDs to pins 26, 27 and 14 (dont forget to put a resistor of ~100 ohms in series per LED)
 
-# How to use  {unofficial_video_but_working_is_successfully}
+10) Read all the information file in note pad to get all access.
+
+
+# How to use  {unofficial_video_/_but_working_is_successfully}
 
 https://www.youtube.com/watch?v=aM2ktMKAunw
 
