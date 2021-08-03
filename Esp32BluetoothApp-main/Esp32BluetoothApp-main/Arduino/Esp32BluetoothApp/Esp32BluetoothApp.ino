@@ -1,7 +1,7 @@
 // --------------------------------------------------
 //
-// Code for control of ESP32 through MIT inventor app (Bluetooth). 
-// device used for tests: ESP32-WROOM-32D
+// Code for control of ESP32/8266 through MIT inventor app (Bluetooth). 
+// device used for tests: ESP32-WROOM-32D /ESP8266
 // 
 // App on phone has three buttons:
 // Button 1: 11 for ON and 10 for OFF
@@ -12,7 +12,7 @@
 //
 // --------------------------------------------------
 
-// this header is needed for Bluetooth Serial -> works ONLY on ESP32
+// this header is needed for Bluetooth Serial -> works ONLY on ESP32/8266
 #include "BluetoothSerial.h" 
 
 // init Class:
